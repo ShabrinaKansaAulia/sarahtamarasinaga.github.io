@@ -15,37 +15,7 @@ Tugas Pengganti UAS Metodologi Penelitian Politeknik APP Jakarta
 
 <body class="fullcontent">
 
-<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
 
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Melihat Hubungan Nilai Ekspor Impor dengan Cadangan Devisa Negara</h1>
-<p class="subtitle lead">PENGARUH NILAI EKSPOR IMPOR TERHADAP CADANGAN DEVISA NEGARA INDONESIA TAHUN 2010-2021</p>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>SARAH TAMARA SINAGA </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">January 13, 2023</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
 
 </header>
 
